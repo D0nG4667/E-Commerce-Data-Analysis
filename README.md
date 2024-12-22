@@ -6,6 +6,10 @@ The `project.ipynb` file in the notebook folder is detailed, explicit and insigh
 
 The JSON files in the dataset folder contains all the data that was loaded as collections to the database. The dataset used in this project has been generated solely for illustrative and educational purposes. All data, including names, email addresses, and other information, is entirely fictitious and does not correspond to any real individuals, organizations, or entities.
 
+## Notebook not rendering on GitHub?
+
+- Preview here on Google Collab [mongodb project.ipynb](https://colab.research.google.com/github/D0nG4667/E-Commerce-Data-Analysis/blob/main/notebook/project.ipynb)
+
 <a name="readme-top"></a>
 
 ## Schema Design Decisions
